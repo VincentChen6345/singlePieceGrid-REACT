@@ -1,0 +1,7 @@
+.about-us {
+  background-color: var(--primary-color-light);
+  padding: 4rem 6rem;
+  height: 100%;
+  width: 100%;
+  border-bottom-right-radius: 1rem;
+}

@@ -1,0 +1,28 @@
+.CTA {
+  background-color: var(--primary-color);
+  padding: 4rem 6rem;
+  height: 100%;
+  width: 100%;
+  border-bottom-left-radius: 1rem;
+}
+.h2 {
+  font-size: 2.5rem;
+  color: var(--color-white);
+  margin-bottom: 4rem;
+}
+.price-number {
+  font-size: 4rem;
+  color: var(--color-white);
+  font-weight: bolder;
+  margin-right: 1.5rem;
+}
+.text-cost {
+  font-size: 2rem;
+  color: var(--color-white);
+  font-weight: 100;
+  display: flex;
+  align-items: center;
+}
+.text-cost-description {
+  font-size: 2rem;
+}

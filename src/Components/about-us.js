@@ -1,6 +1,7 @@
+import "./about-us.css";
 const AboutUs = () => {
   return (
-    <div className="About-us">
+    <div className="about-us">
       <h2>Why Us</h2>
       <ul>
         <li>Tutorials by industry experts</li>

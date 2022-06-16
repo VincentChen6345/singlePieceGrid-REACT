@@ -1,9 +1,10 @@
 .card-container {
-  background-color: aqua;
-  width: 80%;
+  width: 60%;
   height: 80%;
   transform: translate(-50%, -50%);
   position: absolute;
   left: 50%;
   top: 50%;
+  border-radius: 10px;
+  box-shadow: 0rem 0rem 1.5rem rgba(0, 0, 0, 0.453);
 }

@@ -1,0 +1,8 @@
+.bottom-Card {
+  display: flex;
+  flex-basis: 1;
+  justify-content: center;
+  align-items: stretch;
+  flex: 1;
+  height: 60%;
+}
