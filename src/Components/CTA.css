@@ -40,3 +40,9 @@
   box-shadow: var(--box-shadow-light);
   margin-top: 4rem;
 }
+.btn__signUp:hover {
+  background-color: var(--secondary-color-light);
+}
+.btn__signUp:active {
+  background-color: var(--secondary-color-dark);
+}

@@ -25,6 +25,8 @@ code {
   --primary-color-light: rgb(63, 179, 175);
   --secondary-color: rgb(179, 220, 39);
   --secondary-color-light: rgb(193, 219, 106);
+  --secondary-color-dark: rgb(185, 211, 100);
+
   --color-white: white;
   --color-white-light: rgba(255, 255, 255, 0.475);
   --color-p1-text: rgb(189, 192, 205);
