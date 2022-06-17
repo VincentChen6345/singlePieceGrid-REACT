@@ -5,3 +5,21 @@
   width: 100%;
   border-bottom-right-radius: 1rem;
 }
+.heading {
+  font-size: 2.5rem;
+  color: var(--color-white);
+  margin-bottom: 3rem;
+}
+.about-us__list {
+  text-decoration: none;
+  color: var(--color-white-light);
+  font-size: 2rem;
+  font-weight: 500;
+}
+.list-item {
+  text-decoration: none;
+  list-style: none;
+}
+.list-item:not(:first-child) {
+  margin-top: 0.8rem;
+}

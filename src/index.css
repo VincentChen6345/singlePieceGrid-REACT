@@ -26,8 +26,11 @@ code {
   --secondary-color: rgb(179, 220, 39);
   --secondary-color-light: rgb(193, 219, 106);
   --color-white: white;
+  --color-white-light: rgba(255, 255, 255, 0.475);
   --color-p1-text: rgb(189, 192, 205);
   --color-background: rgb(219, 230, 242);
+  --box-shadow: 0rem 0rem 1.5rem rgba(0, 0, 0, 0.453);
+  --box-shadow-light: 0rem 0rem 1.5rem rgba(0, 0, 0, 0.18);
 
   /* 1em=16px; */
   /* breakpoints */

@@ -2,15 +2,15 @@ import "./about-us.css";
 const AboutUs = () => {
   return (
     <div className="about-us">
-      <h2>Why Us</h2>
-      <ul>
-        <li>Tutorials by industry experts</li>
-        <li>Peer & expert code review</li>
-        <li>Coding exercises</li>
-        <li>Access to our GitHub repos</li>
-        <li>Community forum</li>
-        <li>Flashcard decks</li>
-        <li>New videos every week</li>
+      <h2 className="heading">Why Us</h2>
+      <ul className="about-us__list">
+        <li className="list-item">Tutorials by industry experts</li>
+        <li className="list-item">Peer & expert code review</li>
+        <li className="list-item">Coding exercises</li>
+        <li className="list-item">Access to our GitHub repos</li>
+        <li className="list-item">Community forum</li>
+        <li className="list-item">Flashcard decks</li>
+        <li className="list-item">New videos every week</li>
       </ul>
     </div>
   );

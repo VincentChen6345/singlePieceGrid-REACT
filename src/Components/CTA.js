@@ -10,7 +10,7 @@ const CTA = () => {
       <p className="text-cost-description">
         Full access for less than $1 a day
       </p>
-      <button>Sign Up</button>
+      <button className="btn__signUp">Sign Up</button>
     </div>
   );
 };
